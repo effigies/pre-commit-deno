@@ -1,0 +1,6 @@
+[project]
+name = "pre-commit-deno"
+version = "0.1.0"
+dependencies = [
+    "deno>=2.7.12",
+]
